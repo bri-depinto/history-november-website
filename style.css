@@ -3,4 +3,19 @@ background-image: url(/images/navbarvint.jpeg)
 }
 body{
 background-color: black;
-} 
+}
+.navbar-brand{
+    font-family: 'Allura', cursive;
+    font-size: 35px;
+}
+.nav-item{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 22px;
+    margin-right: 10px;
+    margin-left: 25px;
+    transition: 0.5s;
+}
+.nav-item :hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
