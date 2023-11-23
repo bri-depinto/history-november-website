@@ -24,6 +24,7 @@ background-color: black;
     background-image: url(/images/pleaseworkflag.png);
     height: 160px;
     width: 1264px;
+    margin-bottom: 80px;
 }
 .wordsinpic{
     font-weight: bolder;
@@ -31,4 +32,24 @@ background-color: black;
     font-family:'Reenie Beanie', cursive; ;
     font-size: 2.7em;
 margin-top: 15px;
+}
+.earlyyearpic{
+background-image: url(/images/queeeeen.png);
+height: 300px;
+}
+.toptext{
+    font-family: 'Allura', cursive;
+    color: white;
+    font-size: 4em;
+}
+.bottomtext{
+    font-family:'Reenie Beanie', cursive; ;
+    color: tan;
+    font-size: 2em;
+}
+.help{
+border-top: red dotted 2px;
+border-bottom: red dotted 2px;
+border-right: red dotted 2px;
+border-left: red dotted 2px ;
 }
