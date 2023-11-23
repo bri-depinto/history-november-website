@@ -7,6 +7,7 @@ background-color: black;
 .navbar-brand{
     font-family: 'Allura', cursive;
     font-size: 35px;
+    margin-left: 2px;
 }
 .nav-item{
     font-family: 'Reenie Beanie', cursive;
@@ -18,4 +19,15 @@ background-color: black;
 .nav-item :hover{
     transform: scale(1.1);
     transition: 0.5s;
+}
+.img{
+    background-image: url(/images/pleaseworkflag.png);
+    
+}
+.wordsinpic{
+    font-weight: bolder;
+    text-align: center;
+    font-family:'Reenie Beanie', cursive; ;
+    font-size: 50px;
+
 }
