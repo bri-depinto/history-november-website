@@ -36,6 +36,7 @@ margin-top: 15px;
 .earlyyearpic{
 background-image: url(/images/queeeeen.png);
 height: 300px;
+
 }
 .toptext{
     font-family: 'Allura', cursive;
@@ -44,12 +45,12 @@ height: 300px;
 }
 .bottomtext{
     font-family:'Reenie Beanie', cursive; ;
-    color: tan;
-    font-size: 2em;
+    color: #e3dac9;
+    font-size: 1em;
 }
 .help{
-border-top: red dotted 2px;
-border-bottom: red dotted 2px;
-border-right: red dotted 2px;
-border-left: red dotted 2px ;
+border-top: red ridge 2px;
+border-bottom: red ridge 2px;
+border-right: red ridge 2px;
+border-left: red ridge 2px ;
 }
