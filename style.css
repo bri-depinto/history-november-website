@@ -48,7 +48,7 @@ width: 600px;
     color: #e3dac9;
     font-size: 1em;
 }
-.help{
+.earlyyearbor{
 border-top: red ridge 2px;
 border-bottom: red ridge 2px;
 border-right: red ridge 2px;
@@ -59,3 +59,25 @@ border-left: red ridge 2px ;
     height: 300px;
     width: 600px;
 }
+.majaccbor{
+border-top: navy ridge 2px;
+border-bottom: navy ridge 2px;
+border-right: navy ridge 2px;
+border-left: navy ridge 2px ;
+}
+.conpic{
+    background-image: url(/images/con.png);
+    height: 300px;
+    width: 600px;
+}
+.conbor{
+    border-top: white ridge 2px;
+    border-bottom: white ridge 2px;
+    border-right: white ridge 2px;
+    border-left: white ridge 2px ;
+    }
+    .toptextcon{
+        font-family: 'Allura', cursive;
+        color: white;
+        font-size: 3em;
+    }
