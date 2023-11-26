@@ -117,3 +117,15 @@ border-left: navy ridge 3px ;
     border-right: red ridge 3px;
     border-left: red ridge 3px;
 }
+.wordsatbottom{
+    text-decoration: none;
+    color: white;
+}
+.citinginfo{
+    font-size: 10px;
+
+   color: white;
+}
+.cite{
+    font-size: 8px;
+}
